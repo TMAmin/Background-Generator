@@ -1,0 +1,8 @@
+body{
+    margin: 10%;
+    background: no-repeat linear-gradient(to right  , #af30cf , #ff8000 ) center center fixed;
+    background-size: cover;
+    display: grid;
+    justify-items: center;
+}
+
